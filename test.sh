@@ -3,5 +3,5 @@
 
 
 #!/bin/sh
-echo "Hello world"
-test
+echo "Hello Vishal"
+
